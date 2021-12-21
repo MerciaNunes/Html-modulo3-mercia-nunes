@@ -1,0 +1,79 @@
+* {
+    margin: 0;
+    padding: 0;
+    flex-direction: column;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+header {
+    height: 50px;
+}
+
+nav {
+    width: 100%;
+    height: 90px;
+}
+
+nav ul {
+    margin-left: 50%;
+}
+
+nav ul li {
+    display: inline-block;
+    font-size: 25px;
+    color: white;
+    margin-top: 2%;
+    margin-left: 20px;
+}
+
+h2 {
+    color: rgb(156, 14, 4);
+    font: Palatino Linotype;
+    font-size: 30px;
+}
+
+h4 {
+    color: rgb(156, 14, 4);
+    font: Palatino Linotype;
+}
+
+#logo {
+    width: 10%;
+    float: left;
+}
+
+body {
+    background-image: url(../Imagens/mg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 80vh;
+}
+.Contato {
+    color:rgb(156, 14, 4) ;
+    font-size: 20px;
+    margin-top: 5%;
+    width: 40%;
+    height: 70%;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: white;
+    opacity: 80%;
+}
+
+.email {
+    margin-top: 10%;
+    width: 35%;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+#faixa {
+    width: 100%;
+    background-color: rgb(156, 14, 4);
+    }
+

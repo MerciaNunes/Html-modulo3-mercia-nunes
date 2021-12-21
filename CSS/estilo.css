@@ -1,0 +1,137 @@
+* {
+    margin: 0;
+    padding: 0;
+    flex-direction: column;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+header {
+    height: 50px;
+
+}
+
+nav {
+    width: 100%;
+    height: 90px;
+
+
+}
+
+nav ul {
+    margin-left: 50%;
+
+
+}
+
+nav ul li {
+    display: inline-block;
+    font-size: 25px;
+    color: white;
+    margin-top: 2%;
+    margin-left: 20px;
+}
+
+h2 {
+    color: rgb(156, 14, 4);
+    font: Palatino Linotype;
+    font-size: 30px;
+}
+
+h4 {
+    color: rgb(156, 14, 4);
+    font: Palatino Linotype;
+}
+
+p {
+    color: blue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', 'Arial', 'sans-serif';
+}
+
+.destaque {
+    color: red;
+}
+
+#conteudo {
+    width: 70%;
+
+}
+
+#logo {
+    width: 10%;
+    float: left;
+
+}
+
+body {
+    background-image: url(../Imagens/mg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 80vh;
+}
+
+
+
+.Contato {
+    margin-top: 10%;
+    width: 35%;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: white;
+}
+
+.email {
+    margin-top: 10%;
+    width: 35%;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+#faixa {
+    width: 100%;
+    background-color: white;
+}
+
+section {
+    display: flex !important;
+    width: 100%;
+}
+
+.tudo {
+    margin-left: 20px;
+    margin-bottom: 20px;
+    width: 400px;
+    height: 500px;
+    border: 1px solid #000;
+    border-radius: 15px;
+}
+
+.tudo img {
+    width: 100%;
+    border-radius: 15px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 6em
+}
+
+#texto {
+    text-align: center;
+    margin-top: 25px;
+    
+}
+.email {
+    margin-top: 10%;
+    width: 35%;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+#faixa {
+    width: 100%;
+    background-color: rgb(156, 14, 4);
+}
